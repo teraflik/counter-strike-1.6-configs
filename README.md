@@ -4,20 +4,20 @@
 ##What is the use of these files?
 Everyone in college loves to play Counter Strike, and have hours of fun on the LAN with other hostel students.  
 If you play Counter Strike on LAN or run a Half Life Dedicated Server (HLDS) and need to customize the gameplay options to work the best for you, you can use these files.  
-You can change many options from these files using the description provided.
 
-##How to use
+
+##How to use these files?
 - Paste these files in the `cstrike` folder of your Counter Strike 1.6 installation directory. Something like  `C:\Program Files(x86)\Counter Strike 1.6\cstrike\`
-- After starting the game open up the console by hitting "`~`" and type  
-      exec clan.cfg
-      //or whatever is the name of file that you want to execute
+- After starting the game open up the console by hitting `~` and type  
+```
+exec clan.cfg
+//or whatever is the name of file that you want to execute
+```
 - Enjoy the Game !!
 
-##Customization and Improvements
-If you want to suggest some changes or improvements create a Pull Request, or contact [here](http://blog.teraflik.com/p/contact.html)  
-
-
-
+##How do I make customizations and improvements?
+If you want to suggest some changes or improvements create a Pull Request, or contact [here.](http://blog.teraflik.com/p/contact.html)  
+This content is part of the Creative Commons License 4.0. 
 
 
  
