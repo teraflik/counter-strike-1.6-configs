@@ -1,6 +1,5 @@
 Counter Strike Configs
 ======================
->RaghavTheCyberdude, [TeraFlik](http://www.teraflik.com)
 
 ## What is the use of these files?
 Everyone in college loves to play Counter Strike, and have hours of fun on the LAN with other hostel students.  
@@ -32,4 +31,4 @@ If you want to suggest some changes or improvements create a Pull Request, or co
 This content is part of the Creative Commons License 4.0. 
 
 ___
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Counter Strike Configs</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">RaghavTheCyberdude</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Counter Strike Configs</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">teraflik</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
