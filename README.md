@@ -1,4 +1,4 @@
-Counter Strike Configs
+Counter Strike 1.6 Configs
 ======================
 
 ## What is the use of these files?
